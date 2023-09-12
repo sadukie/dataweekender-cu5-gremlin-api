@@ -5,3 +5,5 @@ The files include:
 * [Python notebook](DataWeekender-DataLoad.ipynb) - uses gremlinpython to connect to the Azure Cosmos DB Gremlin API instance
 * [Excel file](DataWeekender-SessionList.xlsx) - sample data
 * [Slides](Intro%20to%20Graph%20Databases.pptx) - including a couple videos for Azure Data Explorer that are only showing the motions of what to do (no sound)
+
+You will need to create a graph within the Azure Cosmos DB for Apache Gremlin account. When you create the account, the key that I use is `/type`.
